@@ -1,9 +1,40 @@
-Usage Declaration:
+Notice
 
-I (hzonz) hereby declare that I am using the code from Villhellm's lovelace-clock-card repository, but I have not been explicitly granted permission to use this code.
+This project is based on modifications to Villhellm/lovelace-clock-card.
 
-While the repository does not provide an explicit license, I am using this code for personal use only and will not use it for commercial purposes or distribute it to others. I respect the intellectual property rights of the original author and commit to complying with applicable laws and license terms.
-
-If you are the original author Villhellm and have any objections to my usage, please contact me, and I will promptly remove the use of your code.
+Author: hzonz
 
 Date: May 7, 2024
+
+Statement:
+
+1. Code modifications: This project has been modified and customized from the original project to fit personal needs.
+
+2. Licensing: The original project does not provide explicit license information. I (hzonz) cloned this project based on the original project and made modifications to the existing code. While the original project may not have been explicitly licensed, I (hzonz) reserve ownership of the modified code and allow others to use, modify, and distribute it within the applicable legal framework.
+
+3. Copyright notice: While the original project does not provide explicit copyright notice, I (hzonz) respect the contributions and intellectual property of the original author. If you are the original author of the project and wish to object to the use and distribution of this project, please contact me (hzonz), and I will respect your wishes and take appropriate action.
+
+4. Disclaimer: This project is provided "as is" without any express or implied warranties or conditions, including, but not limited to, the implied warranties or conditions of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author or copyright owner be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the project.
+
+5. Third-party resources: This project may contain third-party code or resources, the copyrights of which belong to their respective owners. For the use of these resources, please follow the respective licenses and legal regulations.
+
+
+注意事项
+
+该项目基于 Villhellm/lovelace-clock-card 修改而来。
+
+作者: hzonz
+
+日期: 2024年5月7日
+
+声明：
+
+1. 代码修改：本项目对原项目进行了修改和定制以适应个人需求。
+
+2. 授权许可：原项目未提供明确的许可证信息。我（hzonz）将此项目以原项目的基础克隆，并在原有代码的基础上进行修改。尽管原项目可能未明确授权，但在适用法律范围内，我（hzonz）保留对修改后代码的所有权，并允许其他人根据适用法律进行使用、修改和分发。
+
+3. 版权声明：尽管原项目未提供明确的版权声明，但我（hzonz）尊重原作者的贡献和知识产权。如果您是原项目的作者，并希望对此项目的使用和分发行为提出异议，请联系我（hzonz），我将尊重您的意愿并采取相应措施。
+
+4. 免责声明：本项目按“原样”提供，不提供任何明示或暗示的担保或条件，包括但不限于适销性、特定用途适用性和非侵权性。在任何情况下，无论是在合同诉讼、侵权行为还是其他诉讼中，作者或版权所有者均不承担任何责任。
+
+5. 第三方资源：本项目可能包含第三方代码或资源，这些资源的版权归其各自的所有者所有。对于这些资源的使用，请遵循相应的许可证和法律规定。
