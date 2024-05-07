@@ -118,7 +118,12 @@ class ClockCard extends HTMLElement {
                     ctx.rotate(ang);
                     ctx.translate(0, -radius * 0.85);
                     ctx.rotate(-ang);
-                    ctx.fillText(num.toString(), 0, 0);
+                    // 只绘制 12、3、6、9 这几个数字
+                    if (num % 3 === 0) {
+                        ctx.fillText(num.toString(), 0, 0);
+                    } else {
+                        ctx.fillText('·', 0, 0); // 其余位置绘制点
+                    }
                     ctx.rotate(ang);
                     ctx.translate(0, radius * 0.85);
                     ctx.rotate(-ang);
