@@ -1,0 +1,9 @@
+Usage Declaration:
+
+I (hzonz) hereby declare that I am using the code from Villhellm's lovelace-clock-card repository, but I have not been explicitly granted permission to use this code.
+
+While the repository does not provide an explicit license, I am using this code for personal use only and will not use it for commercial purposes or distribute it to others. I respect the intellectual property rights of the original author and commit to complying with applicable laws and license terms.
+
+If you are the original author Villhellm and have any objections to my usage, please contact me, and I will promptly remove the use of your code.
+
+Date: May 7, 2024
